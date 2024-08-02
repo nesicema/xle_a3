@@ -5,8 +5,8 @@
 
 COMP
 * Toby thinks that Michael likes him - successful parse
-* Toby thinks that Michael to like him - unsuccessful parse; given the verb 'think', the embedded phrase cannot have a non-finite verb.
-
+* Toby thinks that Michael to like him - unsuccessful parse; given the verb 'think', the embedded phrase cannot have a non-finite verb
+* 
 XCOMP
 * Jim persuaded Dwight to wait on the roof - successful parse
 * Jim persuaded that Dwight wait on the roof - unsuccessful parse; complementizer 'that' can follow matrix verb, given the nature of the verb 'persuade'.
