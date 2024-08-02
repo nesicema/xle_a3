@@ -1,7 +1,7 @@
 # xle_a3
 
-### The current fst file contains the combined grammars of lecture 8 (COMP, XCOMP) and lecture 9 (LDD).
-### In the testsuite, I have provided 6 sentences: two for each phenomenon, whereby one parses correctly, while the other does not. These sentences are presented below:
+#### The current fst file contains the combined grammars of lecture 8 (COMP, XCOMP) and lecture 9 (LDD).
+#### In the testsuite, I have provided 6 sentences: two for each phenomenon, whereby one parses correctly, while the other does not. These sentences are presented below:
 
 COMP
 * Toby thinks that Michael likes him - successful parse
